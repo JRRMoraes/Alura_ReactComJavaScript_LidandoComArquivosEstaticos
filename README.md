@@ -1,3 +1,9 @@
+# Bom dia, boa tarde e boa noite. Por João Ricardo R. de Moraes.
+
+Projeto final do curso da Alura "React com JavaScript: Lidando com arquivos estaticos".
+
+Disponível na Vercel em [https://alura-react-com-java-script-lidando-com-arquivos-estaticos.vercel.app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
